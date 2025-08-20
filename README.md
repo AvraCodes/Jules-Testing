@@ -6,8 +6,8 @@ This visualization was created with RAWGraphs (Circle Packing) to show portfolio
 - Color encodes sector.
 
 ## Files
-- `chart.png` – RAWGraphs export (512×512 px)
-- https://raw.githubusercontent.com/avra/rawgraphs-circle-packing-portfolio/main/chart.png
+- `chart.svg` – RAWGraphs export (512×512 px)
+- https://raw.githubusercontent.com/avra/rawgraphs-circle-packing-portfolio/main/chart.svg
 
 ## Contact
 Email: 24f1002255@ds.study.iitm.ac.in
