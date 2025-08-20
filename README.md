@@ -7,7 +7,7 @@ This visualization was created with RAWGraphs (Circle Packing) to show portfolio
 
 ## Files
 - `chart.png` – RAWGraphs export (512×512 px)
-- https://github.com/AvraCodes/Jules-Testing/edit/main/chart.png
+- https://raw.githubusercontent.com/avra/rawgraphs-circle-packing-portfolio/main/chart.png
 
 ## Contact
 Email: 24f1002255@ds.study.iitm.ac.in
