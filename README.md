@@ -6,7 +6,7 @@ This visualization was created with RAWGraphs (Circle Packing) to show portfolio
 - Color encodes sector.
 
 ## Files
-- `viz.png` – RAWGraphs export (512×512 px)
+- `chart.png` – RAWGraphs export (512×512 px)
 
 ## Contact
 Email: 24f1002255@ds.study.iitm.ac.in
